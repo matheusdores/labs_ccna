@@ -2,6 +2,12 @@
 
 Estudos práticos de redes na preparação para o Cisco CCNA.
 
+## Laboratórios documentados
+
+| Tema | Documentação | Ambiente |
+|---|---|---|
+| NAT Estático e Dinâmico | [Ver laboratório](docs/labs/nat-estatico-dinamico.md) | PNETLab, roteadores Cisco |
+
 ## Projeto integrado em preparação
 [CCNA Enterprise Lab: matriz e filial](docs/ccna-enterprise-lab.md)
 
@@ -26,4 +32,5 @@ Os temas acima seguem os nomes dos arquivos; esses cenários não foram executad
 
 ## Método
 Objetivo → topologia e endereçamento → configuração → teste → diagnóstico → evidência.
+
 Imagens proprietárias e credenciais não fazem parte do repositório.
